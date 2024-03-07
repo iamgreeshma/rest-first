@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rest-first/static/css/main.42300d1c.css",
+    "main.js": "/rest-first/static/js/main.b2b3507f.js",
+    "static/media/home-banner-image.png": "/rest-first/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/rest-first/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/rest-first/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/rest-first/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/rest-first/index.html",
+    "main.42300d1c.css.map": "/rest-first/static/css/main.42300d1c.css.map",
+    "main.b2b3507f.js.map": "/rest-first/static/js/main.b2b3507f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.b2b3507f.js"
+  ]
+}
